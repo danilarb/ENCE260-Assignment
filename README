@@ -1,0 +1,15 @@
+**Paper, Scissors, Rock!**
+
+1) Start the game by running make file.
+2) Use nav switches (East & West) to select how many games will be played and
+   South to confirm. Push down on nav button to send to other player. Once
+   confirmed and sent - the average of the 2 numbers of games will be played
+   (+1 if it's an even number to make it more likely that there's a true winner).
+3) Select R (Rock - East), P (Paper - North), S (Scissors - West) and confirm
+   selection with South. Default selection is R (Rock). Once confirmed, push
+   down on nav to send.
+4) W = Win, D = Draw, L = Loss. Press Button 1 to continue.
+5.1) If you have more games to play go back to step 3).
+5.2) If you have finished all of your games, you will see your final score.
+     Push down on nav to go back to number of games select screen (step 2)).
+6) Once finished playing, press reset button to stop.
